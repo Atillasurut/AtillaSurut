@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I’m Atilla!
 
-<!--
-**Atillasurut/AtillaSurut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Started coding at 11 with HTML & Bootstrap 💻  
+Learned MySQL at 13, and got into Python basics the same year 🐍  
+Currently 14 and diving into Python OOP 🚀  
+Aspiring Computer Engineer & future Cybersecurity enthusiast 🔒  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- **Languages:** Python, HTML, SQL  
+- **Learning Goals:** Advanced Python, Cybersecurity, Web Development
